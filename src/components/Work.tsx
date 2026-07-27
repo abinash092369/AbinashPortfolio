@@ -8,7 +8,7 @@ const projects = [
     title: "Food Delivery Platform",
     category: "Enterprise Web App",
     tools: "React, Spring Boot, MySQL, Redis, JWT, Google Maps API, Razorpay, Docker",
-    image: "/images/Maxlife.png",
+    image: "/images/eets.jpg",
   },
   {
     title: "Blockchain Supply Chain Tracker",
@@ -20,7 +20,7 @@ const projects = [
     title: "Web3 Social Platform",
     category: "Decentralized Social Network",
     tools: "React, Solidity, Ethereum, Web3.js, Ethers.js, IPFS",
-    image: "/images/radix.png",
+    image: "/images/w3.jpg",
   },
 ];
 
