@@ -98,7 +98,13 @@ const Work = () => {
                         </p>
                         <div className="carousel-tools">
                           <span className="tools-label">Tools & Features</span>
-                          <p>{project.tools}</p>
+                          <div className="tools-tags">
+                            {project.tools.split(",").map((tool, toolIdx) => (
+                              <span key={toolIdx} className="tool-tag">
+                                {tool.trim()}
+                              </span>
+                            ))}
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -131,3 +137,4 @@ const Work = () => {
 };
 
 export default Work;
+
