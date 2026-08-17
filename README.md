@@ -2,7 +2,9 @@
 
 This repository contains the open-source version of my personal portfolio website.
 
-![Portfolio Preview](public/images/preview.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abinash092369/AbinashPortfolio/main/public/images/preview.png" alt="Portfolio Preview" width="100%" />
+</p>
 
 ## Instructions 🛠️
 
